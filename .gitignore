@@ -1,0 +1,5 @@
+# Ignore these file types
+*.mod
+*.sbmi
+*.bat
+*.psd
